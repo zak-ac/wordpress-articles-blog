@@ -75,6 +75,10 @@ WordPress has no multi-million dollar marketing campaign or celebrity sponsors, 
 
 WordPress is the official continuation of b2/caf&eacute;log, which came from Michel V. The work has been continued by the [WordPress developers](https://wordpress.org/about/). If you would like to support WordPress, please consider [donating](https://wordpress.org/donate/).
 
-## License
+## License and Contribution
 
 WordPress is free software and is released under the terms of the GPL (GNU General Public License) version 2 or (at your option) any later version. See [license.txt](license.txt).
+
+This solution, developed by [Zakaria ACHI](https://zak2tech.com/), is open-source. If you would like to contribute to its evolution, you are welcome to do so. Contributions can be made to the repositories of the [Article Recommendation Plugin](https://gitlab.com/Masi-s-Zakach/article-recommendation-plugin) and the [Article Recommendation System](https://gitlab.com/Masi-s-Zakach/article-recommendation-system).
+
+Please note that this test site is solely intended for showcasing the article recommendation plugin and system.
