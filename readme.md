@@ -1,3 +1,17 @@
+# WordPress Articles Blog
+
+## Introduction
+
+Welcome to the WordPress blog site !
+This website has been created specifically to test and utilize my article recommendation plugin and the article recommendation system. 
+To see the functionality in action, please visit the following:
+
+- [Article Recommendation Plugin](https://gitlab.com/Masi-s-Zakach/article-recommendation-plugin): This plugin provides recommendations for articles based on various algorithms and user behavior.
+- [Article Recommendation System](https://gitlab.com/Masi-s-Zakach/article-recommendation-system): This system powers the recommendation engine behind the plugin, providing accurate and personalized article suggestions.
+
+To display the recommended articles, the " Twenty Twenty " theme is already installed and configured as mentioned in the repository of the recommendation plugin.
+
+# Official WordPress Doc
 ## Installation:
 
 1. Unzip the package in an empty directory and upload everything.
@@ -64,9 +78,3 @@ WordPress is the official continuation of b2/caf&eacute;log, which came from Mic
 ## License
 
 WordPress is free software and is released under the terms of the GPL (GNU General Public License) version 2 or (at your option) any later version. See [license.txt](license.txt).
-
-
-
-
-Regenerate response
-Share
